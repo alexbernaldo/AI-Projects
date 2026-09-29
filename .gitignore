@@ -1,0 +1,6 @@
+.DS_Store
+.opencode/
+.agents/
+AGENTS.md
+CLAUDE.md
+.env
